@@ -1,0 +1,1 @@
+export const TOKEN_KEY = "ai_crm_token";
